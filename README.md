@@ -6,21 +6,19 @@
 * 温馨提示：如果您的文章是word的，可以采用在线网站[word2md](https://word2md.com)来转换化markdown格式！
 
 
-Java编程(java)
+Java
 ===================================
 期待您的加入，一起来编写。。。。
 
-MySQL(mysql)
+MySQL
 ===================================
 
 * [InnoDB存储引擎的逻辑架构](docs/mysql/InnoDB存储引擎的逻辑架构.md)
 * [缓冲池-BufferPool](docs/mysql/缓冲池-BufferPool.md)
 
-Redis缓存(redis)
+Redis
 ===================================
 * [Redis基本数据类型](docs/redis/Redis基本数据类型.md)
-
-
 
 
 
@@ -34,8 +32,8 @@ Redis缓存(redis)
 |Linux系统|linux|
 |数据结构|data_structure|
 |算法|algorithm|
-|Java编程|java|
-|go编程|go|
+|Java|java|
+|go|go|
 |设计模式|design_pattern|
 |MySQL|mysql|
 |Redis缓存|redis|
