@@ -1,7 +1,7 @@
 技术指南
 ========
 
-![avatar](images/WechatIMG46.png)
+大家一起慢慢来完善它吧！！！
 
 * [计算机组成原理](docs/01_computer_orignization/01_目录.md)
 * [操作系统](docs/02_operation_system/02_目录.md)
