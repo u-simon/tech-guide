@@ -8,14 +8,14 @@
 
 Java
 ===================================
-期待您的加入，一起来编写。。。。
+* [JDK-ConcurrentHashMap](docs/jdk/collections/ConcurrentHashMap.md)
 
 MySQL
 ===================================
 
 * [InnoDB存储引擎的逻辑架构](docs/mysql/InnoDB存储引擎的逻辑架构.md)
 * [缓冲池-BufferPool](docs/mysql/缓冲池-BufferPool.md)
-* [JDK-ConcurrentHashMap](docs/jdk/collections/ConcurrentHashMap.md)
+
 
 Redis
 ===================================
